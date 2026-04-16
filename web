@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tp4 - CSS Grid</title>
+    <link rel="stylesheet" href="aaa.css">
+</head>
+<body>
+    <div class="container">
+        <div class="box box1">
+            <img src="ai.png" alt="Image 1">
+            <h2>Intelligence Artificielle</h2>
+            <p>Introduction aux concepts de machine learning.</p>
+            <button>voir plus</button>
+        </div>
+
+        <div class="box box2">
+            <img src="dw.png" alt="Image 2">
+            <h2>Développement Web</h2>
+            <p>Création d'applications web modernes.</p>
+            <button>voir plus</button>
+        </div>
+
+        <div class="box box3">
+            <img src="py.png" alt="Image 3">
+            <h2>Programmation Python 2</h2>
+            <p>Maîtrise des structures de données.</p>
+            <button>voir plus</button>
+        </div>
+
+        <div class="box box4">
+            <img src="sig.png" alt="Image 4">
+            <h2>Traitement du Signal</h2>
+            <p>Analyse et transformation des signaux.</p>
+            <button>voir plus</button>
+        </div>
+
+        <div class="box box5">
+            <img src="math.png" alt="Image 5">
+            <h2>Mathématiques S2</h2>
+            <p>Algèbre et Analyse pour l'ingénieur.</p>
+            <button>voir plus</button>
+        </div>
+
+        <div class="box box6">
+            <img src="dit.png" alt="Image 6">
+            <h2>digital skille</h2>
+            <p>Gestion des données massives en temps réel.</p>
+            <button>voir plus</button>
+        </div>
+    </div>
+</body>
+</html>
